@@ -9,9 +9,9 @@
 - 🔭 Check out my Code course: 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Web development,Sofware Development
-- ⚡ Fun fact: I love mathematics and drawing a anime
-- 😻 Check out the NFT collection I created
+- 🥅 2022 Goals: Learn more about Web Development,Sofware Development, and Aplication Development 
+- ⚡ Fun fact: I love mathematics, workout and solve a puzzle
+- 😻 Check out the NFT collection I created 
 
 
 ### Connect with me:
