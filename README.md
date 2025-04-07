@@ -1,6 +1,7 @@
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Nanaxplayers/30-nites-of-code)  
   ![@Nanaxplayers #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nanaxplayers)
+  <br>
+  Check out my progress!<br>[Click here](https://www.codedex.io/@Nanaxplayers/30-nites-of-code)  
 
 # 💫 About Me:
 🔭 Check out my Code course <br>🌱 I’m currently learning everything<br>👯 I’m looking to collaborate with other <br>🥅 2025 Goals: Learn more about Full Stack Developer, Machine Learning, and Data scientist <br>⚡ Fun fact: I love mathematics, workout and solving a puzzle<br>😻 Check out the NFT collection I created
