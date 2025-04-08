@@ -4,7 +4,7 @@
   <img src="assets/Cover.png">
 </p>
 
-## 🧑🏻‍💻#30NitesOfCode: <img src="assets/coin.gif" alt="My coin" width="1" height="1">
+## 🧑🏻‍💻#30NitesOfCode: <img src="assets/coin.gif" alt="My coin" width="10" height="10">
   ![@Nanaxplayers #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nanaxplayers)
   <br>
   Check out my progress!<br>[Click here](https://www.codedex.io/@Nanaxplayers/30-nites-of-code)  
