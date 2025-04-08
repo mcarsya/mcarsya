@@ -1,7 +1,7 @@
 [![Hits](https://hits.sh/github.com/mcarsya.svg?style=flat-square&label=visitors)](https://hits.sh/github.com/mcarsya/)
 
 <p align=center>
-  <img src"https://github.com/mcarsya/mcarsya/blob/main/assets/Cover.png">
+  <img src="assets/Cover.png">
 </p>
 
 ## #30NitesOfCode:
