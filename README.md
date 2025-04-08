@@ -1,5 +1,9 @@
 [![Hits](https://hits.sh/github.com/mcarsya.svg?style=flat-square&label=visitors)](https://hits.sh/github.com/mcarsya/)
 
+<p align=center>
+  <img src"https://github.com/mcarsya/mcarsya/blob/main/assets/Cover.png">
+</p>
+
 ## #30NitesOfCode:
   ![@Nanaxplayers #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nanaxplayers)
   <br>
