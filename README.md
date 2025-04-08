@@ -5,10 +5,8 @@
 </p>
 
 ## #30NitesOfCode:
-<p align=center>
   ![@Nanaxplayers #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nanaxplayers)
   <br>
-</p>
   Check out my progress!<br>[Click here](https://www.codedex.io/@Nanaxplayers/30-nites-of-code)  
 
 # 💫 About Me:
