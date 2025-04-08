@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/mcarsya.svg?style=flat-square)](https://hits.sh/github.com/mcarsya) 
+[[![Hits](https://hits.sh/github.com/mcarsya.svg?style=flat-square)](https://hits.sh/github.com/mcarsya) ](https://hits.sh/github.com/mcarsya.svg?style=flat-square&logo=visitor)
 
 ## #30NitesOfCode:
   ![@Nanaxplayers #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nanaxplayers)
